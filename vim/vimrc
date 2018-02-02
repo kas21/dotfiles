@@ -1,6 +1,4 @@
 " .vimrc
-" Author: Justin Mayer (@jmayer)
-" Source: https://bitbucket.org/j/dotfiles/src/tip/vim/
 
 set nocompatible          " Use vim instead of vi settings; this must come first
 
